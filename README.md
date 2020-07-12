@@ -1,4 +1,4 @@
-#NBA-Player-Analysis-Website
+# NBA-Player-Analysis-Website
 https://prod.d2xdl1vtju57qv.amplifyapp.com
 
 1. Using React, D3 and Ant Design to visualize player’s data from stats.nba.com APIs.
